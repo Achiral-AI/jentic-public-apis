@@ -1,6 +1,6 @@
 # APIs — H
 
-Browsing 109 APIs starting with **H**.
+Browsing 157 APIs starting with **H**.
 
 [0](../0) · [1](../1) · [2](../2) · [3](../3) · [4](../4) · [5](../5) · [6](../6) · [7](../7) · [8](../8) · [9](../9) · [A](../A) · [B](../B) · [C](../C) · [D](../D) · [E](../E) · [F](../F) · [G](../G) · **H** · [I](../I) · [J](../J) · [K](../K) · [L](../L) · [M](../M) · [N](../N) · [O](../O) · [P](../P) · [Q](../Q) · [R](../R) · [S](../S) · [T](../T) · [U](../U) · [V](../V) · [W](../W) · [X](../X) · [Y](../Y) · [Z](../Z) · [~rest](../~rest)
 
@@ -14,16 +14,25 @@ Browsing 109 APIs starting with **H**.
 | [hackerone.com](../../../../apis/openapi/hackerone.com) | [main](../../../../apis/openapi/hackerone.com/main) |
 | [hackerrank.com](../../../../apis/openapi/hackerrank.com) | [main](../../../../apis/openapi/hackerrank.com/main) |
 | [hackmd.io](../../../../apis/openapi/hackmd.io) | [main](../../../../apis/openapi/hackmd.io/main) |
+| [hairdora.com](../../../../apis/openapi/hairdora.com) | [main](../../../../apis/openapi/hairdora.com/main) |
+| [halalterminal.com](../../../../apis/openapi/halalterminal.com) | [main](../../../../apis/openapi/halalterminal.com/main) |
+| [halict.com](../../../../apis/openapi/halict.com) | [main](../../../../apis/openapi/halict.com/main) |
 | [haloapi.com](../../../../apis/openapi/haloapi.com) | [halo](../../../../apis/openapi/haloapi.com/halo) · [metadata](../../../../apis/openapi/haloapi.com/metadata) · [profile](../../../../apis/openapi/haloapi.com/profile) · [stats](../../../../apis/openapi/haloapi.com/stats) · [ugc](../../../../apis/openapi/haloapi.com/ugc) |
 | [halopsa.com](../../../../apis/openapi/halopsa.com) | [main](../../../../apis/openapi/halopsa.com/main) |
+| [handsforagents.com](../../../../apis/openapi/handsforagents.com) | [main](../../../../apis/openapi/handsforagents.com/main) |
 | [handwrytten.com](../../../../apis/openapi/handwrytten.com) | [main](../../../../apis/openapi/handwrytten.com/main) |
 | [hanko.io](../../../../apis/openapi/hanko.io) | [main](../../../../apis/openapi/hanko.io/main) |
 | [haplotypefrequencycu](../../../../apis/openapi/haplotypefrequencycu) | [main](../../../../apis/openapi/haplotypefrequencycu/main) |
+| [happenstance.ai](../../../../apis/openapi/happenstance.ai) | [main](../../../../apis/openapi/happenstance.ai/main) |
 | [happyreturns.com](../../../../apis/openapi/happyreturns.com) | [main](../../../../apis/openapi/happyreturns.com/main) |
 | [harpoonapp.com](../../../../apis/openapi/harpoonapp.com) | [main](../../../../apis/openapi/harpoonapp.com/main) |
 | [harvardartmuseums.org](../../../../apis/openapi/harvardartmuseums.org) | [main](../../../../apis/openapi/harvardartmuseums.org/main) |
+| [harvis.dev](../../../../apis/openapi/harvis.dev) | [main](../../../../apis/openapi/harvis.dev/main) |
 | [hashicorp.com](../../../../apis/openapi/hashicorp.com) | [nomad](../../../../apis/openapi/hashicorp.com/nomad) |
+| [hashn.com](../../../../apis/openapi/hashn.com) | [main](../../../../apis/openapi/hashn.com/main) |
+| [hastewire.com](../../../../apis/openapi/hastewire.com) | [main](../../../../apis/openapi/hastewire.com/main) |
 | [hasura.io](../../../../apis/openapi/hasura.io) | [main](../../../../apis/openapi/hasura.io/main) |
+| [haterpicks.app](../../../../apis/openapi/haterpicks.app) | [main](../../../../apis/openapi/haterpicks.app/main) |
 | [hatz.ai](../../../../apis/openapi/hatz.ai) | [main](../../../../apis/openapi/hatz.ai/main) |
 | [haveibeenpwned.com](../../../../apis/openapi/haveibeenpwned.com) | [main](../../../../apis/openapi/haveibeenpwned.com/main) |
 | [hcaptcha.com](../../../../apis/openapi/hcaptcha.com) | [main](../../../../apis/openapi/hcaptcha.com/main) |
@@ -37,6 +46,8 @@ Browsing 109 APIs starting with **H**.
 | [heartbeat.readme.io](../../../../apis/openapi/heartbeat.readme.io) | [main](../../../../apis/openapi/heartbeat.readme.io/main) |
 | [hearthstoneapi.com](../../../../apis/openapi/hearthstoneapi.com) | [hearthstone](../../../../apis/openapi/hearthstoneapi.com/hearthstone) · [main](../../../../apis/openapi/hearthstoneapi.com/main) |
 | [hebcal.com](../../../../apis/openapi/hebcal.com) | [main](../../../../apis/openapi/hebcal.com/main) |
+| [hedgespecialty.com](../../../../apis/openapi/hedgespecialty.com) | [main](../../../../apis/openapi/hedgespecialty.com/main) |
+| [hedgr.app](../../../../apis/openapi/hedgr.app) | [main](../../../../apis/openapi/hedgr.app/main) |
 | [hedy.bot](../../../../apis/openapi/hedy.bot) | [main](../../../../apis/openapi/hedy.bot/main) |
 | [hedyai.com](../../../../apis/openapi/hedyai.com) | [main](../../../../apis/openapi/hedyai.com/main) |
 | [heedjy.com](../../../../apis/openapi/heedjy.com) | [main](../../../../apis/openapi/heedjy.com/main) |
@@ -45,6 +56,8 @@ Browsing 109 APIs starting with **H**.
 | [helicone.ai](../../../../apis/openapi/helicone.ai) | [main](../../../../apis/openapi/helicone.ai/main) |
 | [helipaddy.com](../../../../apis/openapi/helipaddy.com) | [main](../../../../apis/openapi/helipaddy.com/main) |
 | [helloasso.com](../../../../apis/openapi/helloasso.com) | [main](../../../../apis/openapi/helloasso.com/main) |
+| [hellobonsai.com](../../../../apis/openapi/hellobonsai.com) | [main](../../../../apis/openapi/hellobonsai.com/main) |
+| [helmiq.net](../../../../apis/openapi/helmiq.net) | [main](../../../../apis/openapi/helmiq.net/main) |
 | [help.callingly.com](../../../../apis/openapi/help.callingly.com) | [main](../../../../apis/openapi/help.callingly.com/main) |
 | [help.claris.com](../../../../apis/openapi/help.claris.com) | [filemaker-admin-api](../../../../apis/openapi/help.claris.com/filemaker-admin-api) · [filemaker-data-api](../../../../apis/openapi/help.claris.com/filemaker-data-api) · [filemaker-odata-api](../../../../apis/openapi/help.claris.com/filemaker-odata-api) |
 | [help.cutt.ly](../../../../apis/openapi/help.cutt.ly) | [main](../../../../apis/openapi/help.cutt.ly/main) |
@@ -52,15 +65,19 @@ Browsing 109 APIs starting with **H**.
 | [helpscout.com](../../../../apis/openapi/helpscout.com) | [main](../../../../apis/openapi/helpscout.com/main) |
 | [helpthemove.co.uk](../../../../apis/openapi/helpthemove.co.uk) | [main](../../../../apis/openapi/helpthemove.co.uk/main) |
 | [here.com](../../../../apis/openapi/here.com) |  |
-| [herokuapp.com](../../../../apis/openapi/herokuapp.com) | [main](../../../../apis/openapi/herokuapp.com/main) |
+| [hermoso.ai](../../../../apis/openapi/hermoso.ai) | [main](../../../../apis/openapi/hermoso.ai/main) |
 | [hetras-certification.net](../../../../apis/openapi/hetras-certification.net) | [hetras-booking-api-version-0](../../../../apis/openapi/hetras-certification.net/hetras-booking-api-version-0) · [hetras-hotel-api-version-0](../../../../apis/openapi/hetras-certification.net/hetras-hotel-api-version-0) |
 | [hetzner.cloud](../../../../apis/openapi/hetzner.cloud) | [main](../../../../apis/openapi/hetzner.cloud/main) |
 | [hevodata.com](../../../../apis/openapi/hevodata.com) | [main](../../../../apis/openapi/hevodata.com/main) |
+| [hexclave.com](../../../../apis/openapi/hexclave.com) | [main](../../../../apis/openapi/hexclave.com/main) |
 | [hexfit.com](../../../../apis/openapi/hexfit.com) | [main](../../../../apis/openapi/hexfit.com/main) |
 | [heygen.com](../../../../apis/openapi/heygen.com) | [main](../../../../apis/openapi/heygen.com/main) |
 | [heyhack.com](../../../../apis/openapi/heyhack.com) | [main](../../../../apis/openapi/heyhack.com/main) |
 | [heyjodie.com](../../../../apis/openapi/heyjodie.com) | [main](../../../../apis/openapi/heyjodie.com/main) |
+| [heyresearch.xyz](../../../../apis/openapi/heyresearch.xyz) | [main](../../../../apis/openapi/heyresearch.xyz/main) |
+| [heysegment.com](../../../../apis/openapi/heysegment.com) | [main](../../../../apis/openapi/heysegment.com/main) |
 | [heyy.io](../../../../apis/openapi/heyy.io) | [main](../../../../apis/openapi/heyy.io/main) |
+| [heyyumi.ai](../../../../apis/openapi/heyyumi.ai) | [main](../../../../apis/openapi/heyyumi.ai/main) |
 | [heyzine.com](../../../../apis/openapi/heyzine.com) | [main](../../../../apis/openapi/heyzine.com/main) |
 | [hhs.gov](../../../../apis/openapi/hhs.gov) | [main](../../../../apis/openapi/hhs.gov/main) |
 | [hibob.com](../../../../apis/openapi/hibob.com) | [main](../../../../apis/openapi/hibob.com/main) |
@@ -70,13 +87,19 @@ Browsing 109 APIs starting with **H**.
 | [hillbillysoftware.com](../../../../apis/openapi/hillbillysoftware.com) | [main](../../../../apis/openapi/hillbillysoftware.com/main) |
 | [hilos.io](../../../../apis/openapi/hilos.io) | [main](../../../../apis/openapi/hilos.io/main) |
 | [hirak.site](../../../../apis/openapi/hirak.site) | [exchange-rates-api](../../../../apis/openapi/hirak.site/exchange-rates-api) · [hirak-faceapi](../../../../apis/openapi/hirak.site/hirak-faceapi) · [hirak-ip-to-country](../../../../apis/openapi/hirak.site/hirak-ip-to-country) · [hirak-ocr](../../../../apis/openapi/hirak.site/hirak-ocr) · [hirak-translation](../../../../apis/openapi/hirak.site/hirak-translation) |
+| [hireart.com](../../../../apis/openapi/hireart.com) | [main](../../../../apis/openapi/hireart.com/main) |
 | [hirefire.io](../../../../apis/openapi/hirefire.io) | [main](../../../../apis/openapi/hirefire.io/main) |
 | [hireinc.com](../../../../apis/openapi/hireinc.com) | [main](../../../../apis/openapi/hireinc.com/main) |
+| [hirelayer.co](../../../../apis/openapi/hirelayer.co) | [main](../../../../apis/openapi/hirelayer.co/main) |
 | [hiretruffle.com](../../../../apis/openapi/hiretruffle.com) | [main](../../../../apis/openapi/hiretruffle.com/main) |
 | [hirize.hr](../../../../apis/openapi/hirize.hr) | [main](../../../../apis/openapi/hirize.hr/main) |
 | [hive.com](../../../../apis/openapi/hive.com) | [main](../../../../apis/openapi/hive.com/main) |
 | [hiveage.com](../../../../apis/openapi/hiveage.com) | [main](../../../../apis/openapi/hiveage.com/main) |
 | [hivelight.com](../../../../apis/openapi/hivelight.com) | [main](../../../../apis/openapi/hivelight.com/main) |
+| [hivepublish.com](../../../../apis/openapi/hivepublish.com) | [main](../../../../apis/openapi/hivepublish.com/main) |
+| [hjarni.com](../../../../apis/openapi/hjarni.com) | [main](../../../../apis/openapi/hjarni.com/main) |
+| [hlaverify.com](../../../../apis/openapi/hlaverify.com) | [main](../../../../apis/openapi/hlaverify.com/main) |
+| [hmsovereign.com](../../../../apis/openapi/hmsovereign.com) | [main](../../../../apis/openapi/hmsovereign.com/main) |
 | [hn.algolia.com](../../../../apis/openapi/hn.algolia.com) | [hn-search-api](../../../../apis/openapi/hn.algolia.com/hn-search-api) |
 | [hnry.co](../../../../apis/openapi/hnry.co) | [main](../../../../apis/openapi/hnry.co/main) |
 | [hol.org](../../../../apis/openapi/hol.org) | [registry-broker](../../../../apis/openapi/hol.org/registry-broker) |
@@ -84,33 +107,58 @@ Browsing 109 APIs starting with **H**.
 | [hologram.io](../../../../apis/openapi/hologram.io) | [main](../../../../apis/openapi/hologram.io/main) |
 | [homebuyer.com](../../../../apis/openapi/homebuyer.com) | [main](../../../../apis/openapi/homebuyer.com/main) |
 | [homerun.co](../../../../apis/openapi/homerun.co) | [main](../../../../apis/openapi/homerun.co/main) |
+| [honesthook.com](../../../../apis/openapi/honesthook.com) | [main](../../../../apis/openapi/honesthook.com/main) |
 | [honeywellhome.com](../../../../apis/openapi/honeywellhome.com) | [main](../../../../apis/openapi/honeywellhome.com/main) |
 | [hookdeck.com](../../../../apis/openapi/hookdeck.com) | [main](../../../../apis/openapi/hookdeck.com/main) |
+| [hootlens.com](../../../../apis/openapi/hootlens.com) | [main](../../../../apis/openapi/hootlens.com/main) |
+| [hoplite.sh](../../../../apis/openapi/hoplite.sh) | [main](../../../../apis/openapi/hoplite.sh/main) |
 | [hospitable.com](../../../../apis/openapi/hospitable.com) | [main](../../../../apis/openapi/hospitable.com/main) |
 | [host.io](../../../../apis/openapi/host.io) | [main](../../../../apis/openapi/host.io/main) |
 | [hostfully.com](../../../../apis/openapi/hostfully.com) | [main](../../../../apis/openapi/hostfully.com/main) |
 | [hotels.cloudbeds.com](../../../../apis/openapi/hotels.cloudbeds.com) | [main](../../../../apis/openapi/hotels.cloudbeds.com/main) |
+| [hotelumo.com](../../../../apis/openapi/hotelumo.com) | [main](../../../../apis/openapi/hotelumo.com/main) |
+| [hotglue.com](../../../../apis/openapi/hotglue.com) | [main](../../../../apis/openapi/hotglue.com/main) |
 | [hotstoks.com](../../../../apis/openapi/hotstoks.com) | [main](../../../../apis/openapi/hotstoks.com/main) |
+| [hourtick.com](../../../../apis/openapi/hourtick.com) | [main](../../../../apis/openapi/hourtick.com/main) |
+| [housingsentinel.cn](../../../../apis/openapi/housingsentinel.cn) | [main](../../../../apis/openapi/housingsentinel.cn/main) |
+| [houzz.com](../../../../apis/openapi/houzz.com) | [main](../../../../apis/openapi/houzz.com/main) |
+| [howtomakemoneyonsnapchat.com](../../../../apis/openapi/howtomakemoneyonsnapchat.com) | [main](../../../../apis/openapi/howtomakemoneyonsnapchat.com/main) |
+| [hproxy.com](../../../../apis/openapi/hproxy.com) | [main](../../../../apis/openapi/hproxy.com/main) |
 | [hrflow.ai](../../../../apis/openapi/hrflow.ai) | [main](../../../../apis/openapi/hrflow.ai/main) |
 | [hrpartner.io](../../../../apis/openapi/hrpartner.io) | [main](../../../../apis/openapi/hrpartner.io/main) |
+| [hsingh.app](../../../../apis/openapi/hsingh.app) | [main](../../../../apis/openapi/hsingh.app/main) |
+| [html2img.com](../../../../apis/openapi/html2img.com) | [main](../../../../apis/openapi/html2img.com/main) |
 | [html2pdf.app](../../../../apis/openapi/html2pdf.app) | [main](../../../../apis/openapi/html2pdf.app/main) |
+| [htmlcsstoimage.com](../../../../apis/openapi/htmlcsstoimage.com) | [main](../../../../apis/openapi/htmlcsstoimage.com/main) |
 | [httpbin.org](../../../../apis/openapi/httpbin.org) | [main](../../../../apis/openapi/httpbin.org/main) |
 | [hub.suprsend.com](../../../../apis/openapi/hub.suprsend.com) | [main](../../../../apis/openapi/hub.suprsend.com/main) |
 | [hubapi.com](../../../../apis/openapi/hubapi.com) | [20 APIs](../../../../apis/openapi/hubapi.com) |
+| [hubble.com](../../../../apis/openapi/hubble.com) | [main](../../../../apis/openapi/hubble.com/main) |
 | [hubhopper.com](../../../../apis/openapi/hubhopper.com) | [main](../../../../apis/openapi/hubhopper.com/main) |
+| [hubitat.com](../../../../apis/openapi/hubitat.com) | [main](../../../../apis/openapi/hubitat.com/main) |
 | [hubspot.com](../../../../apis/openapi/hubspot.com) | [93 APIs](../../../../apis/openapi/hubspot.com) |
+| [huddlekit.com](../../../../apis/openapi/huddlekit.com) | [main](../../../../apis/openapi/huddlekit.com/main) |
 | [huggingface.co](../../../../apis/openapi/huggingface.co) | [main](../../../../apis/openapi/huggingface.co/main) |
+| [human4ai.ai](../../../../apis/openapi/human4ai.ai) | [main](../../../../apis/openapi/human4ai.ai/main) |
+| [humandesignhub.app](../../../../apis/openapi/humandesignhub.app) | [main](../../../../apis/openapi/humandesignhub.app/main) |
 | [humanforce.com](../../../../apis/openapi/humanforce.com) | [main](../../../../apis/openapi/humanforce.com/main) |
 | [humanity.com](../../../../apis/openapi/humanity.com) |  |
 | [humanloop.com](../../../../apis/openapi/humanloop.com) | [main](../../../../apis/openapi/humanloop.com/main) |
 | [hume.ai](../../../../apis/openapi/hume.ai) | [main](../../../../apis/openapi/hume.ai/main) |
 | [humi.ca](../../../../apis/openapi/humi.ca) | [main](../../../../apis/openapi/humi.ca/main) |
+| [hummingdeck.com](../../../../apis/openapi/hummingdeck.com) | [main](../../../../apis/openapi/hummingdeck.com/main) |
 | [humorapi.com](../../../../apis/openapi/humorapi.com) | [humor](../../../../apis/openapi/humorapi.com/humor) · [main](../../../../apis/openapi/humorapi.com/main) |
+| [hunchsheet.app](../../../../apis/openapi/hunchsheet.app) | [main](../../../../apis/openapi/hunchsheet.app/main) |
 | [hund.io](../../../../apis/openapi/hund.io) | [main](../../../../apis/openapi/hund.io/main) |
+| [huntapi.com](../../../../apis/openapi/huntapi.com) | [main](../../../../apis/openapi/huntapi.com/main) |
 | [hunter.io](../../../../apis/openapi/hunter.io) | [hunter-api](../../../../apis/openapi/hunter.io/hunter-api) |
 | [hurma.work](../../../../apis/openapi/hurma.work) | [main](../../../../apis/openapi/hurma.work/main) |
+| [hydracept.com](../../../../apis/openapi/hydracept.com) | [main](../../../../apis/openapi/hydracept.com/main) |
+| [hydrafetch.com](../../../../apis/openapi/hydrafetch.com) | [main](../../../../apis/openapi/hydrafetch.com/main) |
 | [hydramovies.com](../../../../apis/openapi/hydramovies.com) | [hydra-movies](../../../../apis/openapi/hydramovies.com/hydra-movies) · [hydramovies-api](../../../../apis/openapi/hydramovies.com/hydramovies-api) |
 | [hyland.com](../../../../apis/openapi/hyland.com) | [main](../../../../apis/openapi/hyland.com/main) |
+| [hyperping.com](../../../../apis/openapi/hyperping.com) | [main](../../../../apis/openapi/hyperping.com/main) |
+| [hyperping.io](../../../../apis/openapi/hyperping.io) | [main](../../../../apis/openapi/hyperping.io/main) |
 | [hyperswitch.io](../../../../apis/openapi/hyperswitch.io) | [main](../../../../apis/openapi/hyperswitch.io/main) |
 | [hyperwallet.com](../../../../apis/openapi/hyperwallet.com) | [main](../../../../apis/openapi/hyperwallet.com/main) |
 | [hypixel.net](../../../../apis/openapi/hypixel.net) | [hypixel](../../../../apis/openapi/hypixel.net/hypixel) · [main](../../../../apis/openapi/hypixel.net/main) |

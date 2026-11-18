@@ -1,0 +1,49 @@
+{
+  "aid": "invokely.ai:main-1.0.0",
+  "name": "Invokely statistics API",
+  "type": "Index",
+  "description": "Official statistics with unit, period, normalized place and citable source. Same operations and metering as the MCP server at /mcp. The data endpoints need an API key on the Builder or Pro plan, or prepaid credits; Free keys get 402 PLAN_REQUIRED and can use the MCP server instead. CSV export and the catalog endpoints work on every plan.",
+  "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/invokely.ai/main/1.0.0/apis.json",
+  "tags": [
+    "invokely.ai",
+    "main"
+  ],
+  "created": "2026-10-12",
+  "modified": "2026-10-12",
+  "specificationVersion": "0.19",
+  "access": "3rd-Party",
+  "maintainers": [
+    {
+      "FN": "Jentic",
+      "X-github": "jentic",
+      "url": "https://github.com/jentic"
+    }
+  ],
+  "apis": [
+    {
+      "aid": "invokely.ai:main-1.0.0",
+      "name": "Invokely statistics API",
+      "description": "Official statistics with unit, period, normalized place and citable source. Same operations and metering as the MCP server at /mcp. The data endpoints need an API key on the Builder or Pro plan, or prepaid credits; Free keys get 402 PLAN_REQUIRED and can use the MCP server instead. CSV export and the catalog endpoints work on every plan.",
+      "image": "",
+      "baseURL": "https://invokely.ai",
+      "humanURL": "https://invokely.ai/docs",
+      "version": "1.0.0",
+      "tags": [
+        "invokely.ai",
+        "main"
+      ],
+      "properties": [
+        {
+          "type": "OpenAPI",
+          "name": "OpenAPI definition",
+          "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/invokely.ai/main/1.0.0/openapi.json",
+          "mediaType": "application/openapi+json"
+        },
+        {
+          "type": "GitHubRepo",
+          "url": "https://github.com/jentic/jentic-public-apis/tree/main/apis/openapi/invokely.ai/main/1.0.0"
+        }
+      ]
+    }
+  ]
+}
