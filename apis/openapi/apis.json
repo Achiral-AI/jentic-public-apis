@@ -31,7 +31,7 @@
       "url": "https://docs.jentic.com/"
     }
   ],
-  "modified": "2026-11-18",
+  "modified": "2026-11-20",
   "include": [
     {
       "name": "0xarchive.io:main@1.9.0 - 0xArchive API",
@@ -6902,7 +6902,7 @@
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/clockworkrecruiting.com/main/3.0/apis.json"
     },
     {
-      "name": "cloro.dev:main@1.0.0 - Cloro API",
+      "name": "cloro.dev:main@1.0.0 - cloro",
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/cloro.dev/main/1.0.0/apis.json"
     },
     {
@@ -7424,6 +7424,10 @@
     {
       "name": "companycam.com:main@2.0.0 - CompanyCam API",
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/companycam.com/main/2.0.0/apis.json"
+    },
+    {
+      "name": "companyenrich.com:main@2.0.0 - Company Enrich API v2",
+      "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/companyenrich.com/main/2.0.0/apis.json"
     },
     {
       "name": "companyproof.ai:main@2.0.0 - CompanyProof REST API",
@@ -21078,7 +21082,7 @@
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/petfinder.com/main/2.0/apis.json"
     },
     {
-      "name": "pexafy.com:main@v1.0.0 - Pexafy API",
+      "name": "pexafy.com:main@v1.0.0 - Pexafy Stock Photos API",
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/pexafy.com/main/v1.0.0/apis.json"
     },
     {
@@ -21202,8 +21206,8 @@
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/pike13.com/main/2.0.0/apis.json"
     },
     {
-      "name": "piloterr.com:main@2.0.0 - Piloterr API",
-      "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/piloterr.com/main/2.0.0/apis.json"
+      "name": "piloterr.com:main@1.0.0 - Piloterr API Reference",
+      "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/piloterr.com/main/1.0.0/apis.json"
     },
     {
       "name": "pimms.io:main@0.0.1 - PIMMS API",
@@ -23072,14 +23076,6 @@
     {
       "name": "revenuecat.com:main@2.0.0 - Developer API",
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/revenuecat.com/main/2.0.0/apis.json"
-    },
-    {
-      "name": "reverb.com:main@3.0 - reverb",
-      "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/reverb.com/main/3.0/apis.json"
-    },
-    {
-      "name": "reverb.com:reverb@3.0 - reverb",
-      "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/reverb.com/reverb/3.0/apis.json"
     },
     {
       "name": "reverb.com:reverb-api@3.0 - reverb",
@@ -26136,10 +26132,6 @@
     {
       "name": "sumup.com:main@1.0.0 - SumUp REST API",
       "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/sumup.com/main/1.0.0/apis.json"
-    },
-    {
-      "name": "supabase.co:main@0.1.0 - Dalil OAuth Resource API",
-      "url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/refs/heads/main/apis/openapi/supabase.co/main/0.1.0/apis.json"
     },
     {
       "name": "supabase.com:main@1.0 - Supabase Management API",
